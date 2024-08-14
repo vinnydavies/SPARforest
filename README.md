@@ -1,12 +1,9 @@
 # SPARforest
 Code for SPARforest
 
-# Paper
-[arxiv version](https://arxiv.org/abs/2312.12106)
+# Paper & Citation
 
-# Citation
-
-MacBride, C., Davies, V., & Lee, D. (2023). Conditional autoregressive models fused with random forests to improve small-area spatial prediction. _arXiv preprint arXiv:2312.12106_.
+MacBride, C., Davies, V., & Lee, D. (2023). [Conditional autoregressive models fused with random forests to improve small-area spatial prediction](https://arxiv.org/abs/2312.12106). _arXiv preprint arXiv:2312.12106_.
 
 @article{macbride2023conditional,
   title={Conditional autoregressive models fused with random forests to improve small-area spatial prediction},
